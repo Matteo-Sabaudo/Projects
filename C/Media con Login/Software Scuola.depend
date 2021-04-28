@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605383076 source:c:\users\rafasabaudo\desktop\software scuola\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605382860 source:c:\users\rafasabaudo\desktop\software scuola\home.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
